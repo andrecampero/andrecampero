@@ -4,7 +4,7 @@ Linkedin: https://www.linkedin.com/in/andre-campero-silva-gaya-b2895757/
 
 ##### Desenvolvedor Fullstack PHP / JS / Linux / DB / CSS
 
-Atuação em desenvolvimento Web, Mobile e automação de processos (APIs, Webservices, Rotinas e Cálculos) com foco arquitetura escalável e implementação em cliente.
+Atuação em desenvolvimento Web, Mobile e automação de processos (Integrações, APIs, WS, Rotinas e Cálculos) com foco arquitetura escalável e implementação em cliente. Experiência em desenvolvimento CI/CD, Jobs, Pipelines, utilização de Jankis, Testes unitários e Cypress para teste de integração ponta a ponta
 
 Gosto muito de desenvolvimento e busco sempre aperfeiçoar e aprender novas tecnologias e recursos técnicos para aplicar em projetos como também para desenv. pessoal. 
 
